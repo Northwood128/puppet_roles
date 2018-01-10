@@ -1,5 +1,5 @@
 class role::elasticsearch {
 
-  include profile_elasticsearch::main
+  include profile::elasticsearch::main
 
 }
